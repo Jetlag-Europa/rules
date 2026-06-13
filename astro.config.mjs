@@ -6,20 +6,15 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Jet Lag Community Rules',
-      description: 'Versioned rulebooks and game-specific rule documents.',
+      description: 'Rulebooks and game-specific rule documents.',
       sidebar: [
         {
           label: 'Start',
           items: ['index'],
         },
         {
-          label: 'Master Rules',
-          items: [
-            {
-              label: 'Current',
-              autogenerate: { directory: 'main' },
-            },
-          ],
+          label: 'Main Rules',
+          autogenerate: { directory: 'main' },
         },
         {
           label: 'Game Rules',

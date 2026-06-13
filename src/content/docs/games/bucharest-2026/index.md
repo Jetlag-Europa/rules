@@ -22,4 +22,4 @@ We are planning to play a **Medium Metric Game** using **Expansion Pack #1** if 
 
 ## Base Rules
 
-This game is based on the [current master rules](/main/) unless a game-specific page says otherwise.
+This game is based on the [main rules](/main/) unless a game-specific page says otherwise.

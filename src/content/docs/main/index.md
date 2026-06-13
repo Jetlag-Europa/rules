@@ -1,10 +1,10 @@
 ---
-title: "Master Rules"
+title: "Main Rules"
 sidebar:
   order: 0
 ---
 
-These pages contain the latest version of the master Hide and Seek rules.
+These pages contain the main Hide and Seek rules.
 
 ## Rulebook Sections
 
