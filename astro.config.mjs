@@ -5,7 +5,7 @@ export default defineConfig({
   site: "https://rules.jetlageuropa.org",
   integrations: [
     starlight({
-      title: "Jet Lag Europa",
+      title: "Jet Lag: Rules",
       description: "Rulebooks and game-specific rule documents.",
       sidebar: [
         {

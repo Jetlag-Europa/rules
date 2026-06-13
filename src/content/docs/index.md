@@ -6,19 +6,11 @@ editUrl: false
 lastUpdated: false
 pagefind: false
 hero:
-  title: "Jet Lag Europa"
+  title: "Jet Lag: Rules"
   tagline: "Rulebooks, game packets, and practical references for community-run games."
   image:
-    html: |
-      <div class="rules-route-hero" aria-hidden="true">
-        <span class="route-node route-node-start"></span>
-        <span class="route-line route-line-a"></span>
-        <span class="route-node route-node-main"></span>
-        <span class="route-line route-line-b"></span>
-        <span class="route-node route-node-game"></span>
-        <span class="route-line route-line-c"></span>
-        <span class="route-node route-node-guides"></span>
-      </div>
+    file: ../../assets/brand/jetlag-europa.png
+    alt: "Jet Lag: Europa logo"
   actions:
     - text: Main Rules
       link: /main/
