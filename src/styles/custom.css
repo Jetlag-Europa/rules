@@ -1,0 +1,19 @@
+:root {
+  --sl-content-width: 54rem;
+  --sl-text-5xl: 2.35rem;
+}
+
+@media (max-width: 50rem) {
+  :root {
+    --sl-text-5xl: 2rem;
+  }
+}
+
+.sl-markdown-content table {
+  width: 100%;
+}
+
+.sl-markdown-content th,
+.sl-markdown-content td {
+  vertical-align: top;
+}
