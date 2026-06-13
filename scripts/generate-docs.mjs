@@ -421,10 +421,7 @@ function writeStaticPages() {
   writeDoc('index.md', {
     title: 'Rules Library',
     description: 'Browse master rules and permanent game-specific rule documents.',
-    template: 'splash',
-    hero: {
-      tagline: 'Versioned master rules, permanent game pages, section links, and full-text search.',
-    },
+    sidebar: { order: 0 },
   }, `## Start Here
 
 - [Latest Master Rules](/master/latest/)
