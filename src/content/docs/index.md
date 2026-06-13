@@ -9,5 +9,6 @@ sidebar:
 
 - [Main Rules](/main/)
 - [Hide + Seek Bucharest 2026](/games/bucharest-2026/)
+- [Guides](/guides/)
 
 Use the search box in the header to search the published rule pages.

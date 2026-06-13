@@ -20,6 +20,10 @@ export default defineConfig({
           label: 'Game Rules',
           autogenerate: { directory: 'games' },
         },
+        {
+          label: 'Guides',
+          autogenerate: { directory: 'guides' },
+        },
       ],
       customCss: ['./src/styles/custom.css'],
       editLink: {
