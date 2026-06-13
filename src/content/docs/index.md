@@ -7,9 +7,7 @@ sidebar:
 
 ## Start Here
 
-- [Latest Master Rules](/master/latest/)
-- [Master Rules Archive](/master/archive/)
+- [Current Master Rules](/main/)
 - [Hide + Seek Bucharest 2026](/games/bucharest-2026/)
-- [New Game Template](/templates/game-rules-template/)
 
 Use the search box in the header to search the published rule pages.

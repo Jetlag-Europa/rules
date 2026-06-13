@@ -16,20 +16,14 @@ export default defineConfig({
           label: 'Master Rules',
           items: [
             {
-              label: 'Latest',
-              autogenerate: { directory: 'master/latest' },
+              label: 'Current',
+              autogenerate: { directory: 'main' },
             },
-            'master/archive',
           ],
         },
         {
           label: 'Game Rules',
           autogenerate: { directory: 'games' },
-        },
-        {
-          label: 'Templates',
-          collapsed: true,
-          autogenerate: { directory: 'templates' },
         },
       ],
       customCss: ['./src/styles/custom.css'],

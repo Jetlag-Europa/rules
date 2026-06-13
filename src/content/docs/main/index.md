@@ -22,5 +22,3 @@ These pages contain the latest version of the master Hide and Seek rules.
 - [Curses](./curses/)
 - [General Tips](./general-tips/)
 - [Experimental Game Designs](./experimental-game-designs/)
-
-Older snapshots are available from the [master rules archive](/master/archive/).
