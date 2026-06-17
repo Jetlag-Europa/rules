@@ -13,4 +13,5 @@ Over time, more game packets will be added here as new games are planned and doc
 
 ## Available Games
 
-- [Hide + Seek Bucharest 2026](./bucharest-2026/)
+- [Hide + Seek Bucharest 2026](./jl-eu/bucharest-2026/)
+- [Hide + Seek Zürich](./jl-ch/zurich-2026-06-27/)

@@ -16,7 +16,7 @@ Valid hiding zones include all train stations (S-Bahn, RE, IR, IRE, IC, EC, EXT)
 
 <div class="map-embed" aria-label="Interactive H+S Zürich June 2026 game map">
   <iframe
-    title="Hide + Seek Bucharest 2026 game map"
+    title="Hide + Seek Zürich game map"
     src="https://www.google.com/maps/d/embed?mid=121ojABN4PkXCFqi-Bc545ikGDexss9o"
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade"

@@ -1,6 +1,6 @@
 ---
 title: "Cards, Power-Ups, and Curses"
-description: "Deck composition, power-up changes, and curse rulings for Hide + Seek Bucharest 2026."
+description: "Deck composition, power-up changes, and curse rulings for Hide + Seek Zürich."
 sidebar:
   order: 4
 ---
