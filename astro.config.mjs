@@ -1,8 +1,11 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+import cloudflare from "@astrojs/cloudflare";
+
 export default defineConfig({
   site: "https://rules.jetlageuropa.org",
+
   integrations: [
     starlight({
       title: "Jet Lag: Rules",
@@ -27,4 +30,6 @@ export default defineConfig({
       },
     }),
   ],
+
+  adapter: cloudflare()
 });
