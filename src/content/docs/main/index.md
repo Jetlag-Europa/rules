@@ -20,5 +20,6 @@ These pages contain the main Hide and Seek rules.
 - [Hiding](./hiding/)
 - [The Hider Deck](./hider-deck/)
 - [Curses](./curses/)
+- [Expansion Pack Rules Additions](./expansion-pack-rules-additions/)
 - [General Tips](./general-tips/)
 - [Experimental Game Designs](./experimental-game-designs/)

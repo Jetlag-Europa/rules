@@ -1,7 +1,7 @@
 ---
 title: "General Tips"
 sidebar:
-  order: 13
+  order: 14
 ---
 
 Make no mistake, *Hide and Seek* is a physically and mentally demanding game. Particularly for medium and large games, which can last multiple days, adequate preparation is hugely important and should not be disregarded when organizing your game. Here are a few tips for staying healthy and comfortable when playing *Hide and Seek*:
