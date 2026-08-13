@@ -1,1 +1,2 @@
-# Keep this file available for Cloudflare's static assets deployment.
+_worker.js
+_routes.json
